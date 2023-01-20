@@ -3,3 +3,4 @@ matplotlib
 pandas
 numpy
 sklearn
+scikit-learn ##This is the right name to download scikit-learncls
